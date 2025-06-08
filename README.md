@@ -30,7 +30,7 @@ I’m currently learning node js and currently working on a react projects and u
 * visitor count.
 
 
-![Visitor Count](https://profile-counter.glitch.me/cloutHacker/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/derick-kibiwott/count.svg)
 
 ### Languages and Tools:
 
