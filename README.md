@@ -15,12 +15,12 @@ I’m currently learning node js and currently working on a react projects and u
 
  <div style="display:flex;flex-direction:row;">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=derick-kibiwott&show_icons=true&title_color=aqua&icon_color=79ff97&text_color=green&bg_color=151515&theme=tokyonight" alt="clout hacker profile" width="45%">
- <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=derick-kibiwott&repo=cloutHacker&theme=tokyonight" alt="my stats" width="45%" height="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derick-kibiwott&layout=compact&theme=tokyonight" alt="cloutHacker" width="45%/>
+ <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=derick-kibiwott&repo=derick-kibiwott&theme=tokyonight" alt="my stats" width="45%" height="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derick-kibiwott&layout=compact&theme=tokyonight" alt="derick-kibiwott" width="45%/>
 
   <div style="max-width="45%">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloutHacker&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl#streak)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=derick-kibiwott&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl#streak)](https://git.io/streak-stats)
   
   </div>
 
